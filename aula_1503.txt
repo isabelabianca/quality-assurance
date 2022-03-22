@@ -3,22 +3,22 @@ Normas e Guias da Qualidade
 ISO - Norma para garantia de qualidade de uma infinidade de produtos/serviços, inclusive na área de produção de software
 SEI / Softex - Guias (boas práticas, não possui obrigatoriedades)
 
-					+							-
-Pong Gameplay	Simples de usar				Poucas funções
-				Funciona					Interface gráfica pobre
+					+				-
+Pong Gameplay	Simples de usar					Poucas funções
+				Funciona			Interface gráfica pobre
 				Promove o foco
 				Portável
 				Exige pouco do hardware
------------------------------------------------------------------------------	
-Minecraft		Estimula criatividade		Visual ruim
-				Colaborativo				Suporte ruim
-				Portável					Baixa performance (situações)
+--------------------------------------------------------------------------------------------------	
+Minecraft		Estimula criatividade			Visual ruim
+				Colaborativo			Suporte ruim
+				Portável			Baixa performance (situações)
 				Flexibilidade Funcional
 				Customizável
------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
 Tomb Raider		Gráficos excelentes			Inflexível (por conta do roteiro)
-				Imersão						Portabilidade limitada
-				Roteiro						Exige bastante do hardware
+				Imersão				Portabilidade limitada
+				Roteiro				Exige bastante do hardware
 				Funções variadas
 				
 ISO 25010 - Critérios usados para avaliar o software (características de qualidade)
@@ -48,7 +48,8 @@ ISO 25010 - Critérios usados para avaliar o software (características de quali
 		-> Tempo consumido
 		-> Recursos consumidos
 		
-ISO 12207 - Fatores influenciadores da qualidade - Processo e controles de trabalho a fim de atingir as expectativas do consumidor (é o foco se tratando de desenvolvimento da qualidade)
+ISO 12207 - Fatores influenciadores da qualidade - Processo e controles de trabalho a fim de atingir as expectativas do consumidor 
+	    (é o foco se tratando de desenvolvimento da qualidade)
 	-> Competências individuais
 	-> Processo e controles de trabalho
 	-> Ferramentas e materiais
@@ -58,5 +59,6 @@ ISO 12207 - Fatores influenciadores da qualidade - Processo e controles de traba
 		-> Organizacional
 			-> Planejamento, tudo o que é relativo ao gerenciamento do projeto
 		-> Suporte
-			-> Atividades administrativas ou técnicas não relacionadas diretamente à produção do software (infraestutura), mas que influenciam totalmente nela
+			-> Atividades administrativas ou técnicas não relacionadas diretamente à produção 
+			   do software (infraestutura), mas que influenciam totalmente nela
 			
