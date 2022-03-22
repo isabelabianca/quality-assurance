@@ -1,0 +1,8 @@
+TQM - Total Quality Management
+Camadas:
+ 1 -> Inspeção >> Após serem estabelecidas as métricas de desempenho mais importantes para avaliação, coleta as evidências e registra o hitórico de problemas.
+    2 '-> Controle da qualidade >> Monitora as métricas coletadas na inspeção e toma decisão sobre a correção a fazer partindo dos resultados.
+        3 '-> Garantia da qualidade >> Evitar que os problemas continuem acontecendo.
+            4 '-> Qualidade total
+                5 '-> Gestão do desempenho empresarial
+                
